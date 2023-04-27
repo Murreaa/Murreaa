@@ -14,4 +14,4 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WhiteCat.jpg/220px-WhiteCat.jpg" width="512px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WhiteCat.jpg/220px-WhiteCat.jpg" width="256px"/>
